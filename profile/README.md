@@ -10,7 +10,7 @@ professionals, researchers, developers, and privacy-conscious users.
 
 🌐 **Website:** https://darkelfbrowser.com\
 🧠 **Documentation & Guides:**
-[Darkelf-Browser-Hub](https://github.com/Darkelf-Labs/Darkelf-Browser-Hub)
+[Darkelf-Docs](https://github.com/Darkelf-Labs/Darkelf-Docs)
 
 ------------------------------------------------------------------------
 
