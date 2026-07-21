@@ -8,7 +8,7 @@ collection of privacy-focused browsers, OSINT tools, AI-assisted
 utilities, and security research projects designed for cybersecurity
 professionals, researchers, developers, and privacy-conscious users.
 
-🌐 **Website:** https://darkelfbrowser.com\
+🌐 **Website:** [Darkelf Browser](https://darkelfbrowser.com)
 🧠 **Documentation & Guides:**
 [Darkelf-Docs](https://github.com/Darkelf-Labs/Darkelf-Docs)
 
