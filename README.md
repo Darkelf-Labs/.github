@@ -43,7 +43,7 @@ specialized research environments.
 Cross-platform hardened browser focused on privacy, security, and
 anonymous research.
 
-**Current Release:** v7.0.5 (macOS & PyPI)
+**Current Release:** v7.0.4 (macOS & PyPI)
 
 Linux and Windows editions are planned.
 
